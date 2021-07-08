@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478648567172",
+    "project_id": "controle-pacientes-tcc",
+    "storage_bucket": "controle-pacientes-tcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478648567172:android:4afe5fdd6124d793f989d1",
+        "android_client_info": {
+          "package_name": "br.com.adenilson.controle_pacientes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478648567172-tm665mgcnmhk33rsqg7683rjt40vp3nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.adenilson.controle_pacientes",
+            "certificate_hash": "290868119528b4502a7f629cdbb88ded81502d0a"
+          }
+        },
+        {
+          "client_id": "478648567172-1rmvl36j0q5jhocihukbbhfeopl1lb6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChw1xINAxHYOMimhFTxUYh4Vxvh9sWnOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478648567172-1rmvl36j0q5jhocihukbbhfeopl1lb6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
